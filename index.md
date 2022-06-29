@@ -1,5 +1,7 @@
 ## JumpyTown Privacy Policy
 
+App available at: https://play.google.com/store/apps/details?id=com.ShockedZebras.JumpyTown
+
 JumpyTown is an android game app where you jump from walls and dodge obstacles.
 
 JumpyTown is not programmed to collect any personally identifiable information. All app data can be easily removed by clearing the app's data or uninstalling the app. Third parties like Google Admob do collect some information for analytics. 
